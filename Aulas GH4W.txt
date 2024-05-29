@@ -1,0 +1,22 @@
+Marque na sua agenda!
+
+SEMANA 1
+14 de Maio: Aula 1 - Introduction to Git and GitHub
+16 de Maio: Aula 2 - Introduction to Git and GitHub
+
+SEMANA 2                    
+21 de Maio: Aula 3 - Working with GitHub Repositories     
+23 de Maio: Aula 4 - Collaboration Feature        
+
+SEMANA 3                    
+28 de Maio: Aula 5 - Collaboration Feature    
+29 de Maio: Aula 6 - Modern Development
+
+SEMANA 4                    
+04 de Junho:Aula 7 -  Modern Development
+06 de Junho: Aula 8 - Project Management              
+
+SEMANA 5                    
+11 de Junho: Aula 9 - Privacy, Security, and Administration 
+13 de Junho: Aula 10 -  Benefits of the GitHub Community
+05 de Julho: Formatura + dicas e truques para certificação + Carreira 
